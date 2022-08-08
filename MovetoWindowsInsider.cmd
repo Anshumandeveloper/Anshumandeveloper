@@ -1,4 +1,3 @@
-- 👋 Hi, I’m @Anshumandeveloper
 @setlocal DisableDelayedExpansion
 @echo off
 set "scriptver=2.6.3"
