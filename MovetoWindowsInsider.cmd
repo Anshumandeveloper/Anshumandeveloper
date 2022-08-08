@@ -1,13 +1,4 @@
 - 👋 Hi, I’m @Anshumandeveloper
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-Anshumandeveloper/Anshumandeveloper is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
 @setlocal DisableDelayedExpansion
 @echo off
 set "scriptver=2.6.3"
